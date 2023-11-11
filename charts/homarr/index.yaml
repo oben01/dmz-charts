@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  homarr:
+  - apiVersion: v2
+    appVersion: 0.14.0
+    created: "2023-11-11T22:55:33.645306448+01:00"
+    description: A Helm chart to deploy homarr for Kubernetes
+    digest: 4ee4f07099830e562937d2247563870753f75f1fcc6857c9b4b8292b978e4191
+    icon: https://homarr.dev/img/logo.svg
+    name: homarr
+    type: application
+    urls:
+    - homarr-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-11T22:55:33.644946832+01:00"
